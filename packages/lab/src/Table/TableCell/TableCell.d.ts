@@ -15,6 +15,8 @@ export type HvTableCellClassKey =
   | "variantCheckbox"
   | "variantExpand"
   | "variantActions"
+  | "variantListactions"
+  | "variantListcheckbox"
   | "variantNone"
   | "resizable"
   | "resizing";
